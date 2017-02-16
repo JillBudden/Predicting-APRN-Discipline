@@ -1,2 +1,2 @@
 # Predicting-APRN-Discipline
-Independent vs Collaborative vs Supervised APRNs
+Data not included for privacy reasons.
